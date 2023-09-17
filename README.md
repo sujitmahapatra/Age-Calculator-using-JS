@@ -1,5 +1,7 @@
 # Age Calculator using JavaScript
 
+# [Live Demo](https://age-calculator-sm.netlify.app/)
+
 ## Overview
 
 The Age Calculator using JavaScript is a simple web application that allows users to calculate their age based on their date of birth. This project is a great way to learn and practice basic JavaScript programming while creating a useful tool for calculating ages. 
